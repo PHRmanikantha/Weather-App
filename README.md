@@ -1,4 +1,4 @@
-✅ Polished Final README.md
+
 🌦️ Weather Forecast App
 Video Demo: [Your Video Link Here]
 Description:
@@ -79,3 +79,4 @@ Allow export of results to JSON or CSV.
 
 📌 Conclusion
 This project was a fun way to combine Python fundamentals with something real-world. It uses functions, error handling, APIs, and testing — all skills I learned during CS50P. I’m happy with how it turned out because it feels like a small but complete application. I believe it meets all the requirements for the final project, and I’m proud to submit it as the final step of my CS50P journey
+
